@@ -1,5 +1,8 @@
 # US Bikeshare Data Analysis
 
+## Project Analysis
+
+The application provides insights into bikeshare usage patterns, including popular travel times, commonly used stations, trip duration, and user information. These statistics help users understand how bikeshare services are used across different cities.
 ## Project Overview
 
 This project analyzes bikeshare data from three major cities in the United States:
