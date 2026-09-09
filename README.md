@@ -1,27 +1,36 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# US Bikeshare Data Analysis
 
+## Project Overview
 
-# Project Title
+This project analyzes bikeshare data from three major cities in the United States:
 
-Describe what your project is about and what it does
+- New York City
+- Chicago
+- Washington
 
-## Information about how to use your project
+The Python program allows users to explore bikeshare data by selecting a city, month, and day of the week.
 
-This could include:
+## Project Features
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+- Most frequently used month
+- Most frequently used day of the week
+- Most frequently used start hour
+- Total travel time
+- Average travel time
+- Most popular start station
+- Most popular end station
+- Most common combination of start and end stations
+- User type information
+- Gender information
+- Birth year information
 
-## Contribution guidelines
+## Requirements
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+- Python 3
+- pandas
+- NumPy
 
-## Credits
+Install the required libraries:
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-## Date created
-
-Include the date you created this project and README file.
+```bash
+pip install pandas numpy
